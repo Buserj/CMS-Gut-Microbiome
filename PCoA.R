@@ -5,7 +5,7 @@ library(dplyr)
 library(stringr)
 library(ggplot2)
 
-setwd("/nfs5/Crump_Lab/jbuser/AsLakes/lab")
+setwd("/your/wd")
 
 #############
 # load data #
